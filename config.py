@@ -10,10 +10,10 @@ class Config:
     MAIL_PORT = 465
     MAIL_USE_TLS = False
     MAIL_USE_SSL = True
-    MAIL_USERNAME = 'suyashkumar2409@gmail.com'
-    MAIL_PASSWORD =  'anarraystartswith0'
+    MAIL_USERNAME = '********@gmail.com'
+    MAIL_PASSWORD =  '***************'
     APP_MAIL_SUBJECT_PREFIX = '[' + app_name + ']'
-    APP_MAIL_SENDER = 'suyashkumar2409@gmail.com'
+    APP_MAIL_SENDER = '*******@gmail.com'
     APP_ADMIN = 'Suyash Kumar'
 
     @staticmethod
